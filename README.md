@@ -10,6 +10,7 @@ Here is a list of articles I have written -
 
 ### MLOps & DataOps
 * [Feature Stores: Components of a Data Science Factory [Guide]](https://neptune.ai/blog/feature-stores-components-of-a-data-science-factory-guide)
+* [Good Principles of ML System Design](https://medium.com/@_sumitsaha_/principles-of-good-ml-system-design-cdf98c4b2035)
 
 ### Software Development & Engineering
 * [A gentle introduction to Git and GitHub — the ELI5 way](https://medium.com/hackernoon/a-gentle-introduction-to-git-and-github-the-eli5-way-43f0aa64f2e4)
