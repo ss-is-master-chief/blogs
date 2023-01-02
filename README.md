@@ -14,6 +14,7 @@ Here is a list of articles I have written -
 * [Good Principles of ML System Design](https://medium.com/@_sumitsaha_/principles-of-good-ml-system-design-cdf98c4b2035)
 
 ### Software Development & Engineering
+* [Guide to productivity tools for JupyterHub](https://medium.com/@_sumitsaha_/guide-to-productivity-tools-for-jupyterhub-5a427f7e7cbf)
 * [Setting up JupyterHub on Azure](https://medium.com/@_sumitsaha_/setting-up-jupyterhub-on-azure-eadd4675c555)
 * [A gentle introduction to Git and GitHub — the ELI5 way](https://medium.com/hackernoon/a-gentle-introduction-to-git-and-github-the-eli5-way-43f0aa64f2e4)
 
