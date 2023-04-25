@@ -6,6 +6,7 @@ Here is a list of articles I have written -
 * [How to use deep learning & OCR for data extraction from meter readings](https://nanonets.com/blog/sub-meter-reading-using-deep-learning/)
 
 ### Artificial Intelligence / Machine Learning / Deep Learning
+* [Fine Tuning OpenAI’s GPT3 model](https://medium.com/@_sumitsaha_/fine-tuning-openais-gpt3-model-fd9cb06517f6)
 * [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
 * [XGBoost vs LightGBM: How Are They Different](https://neptune.ai/blog/xgboost-vs-lightgbm)
 
